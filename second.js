@@ -1,4 +1,4 @@
-let money = 60;
-money = 'sixty taka';
-money = false;
-console.log(money);
+let taka = 60;
+taka = 'sixty taka';
+taka = false;
+console.log(taka);
